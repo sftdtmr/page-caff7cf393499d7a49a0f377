@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "e7ab222488327cdf76136464",
+  "owner": "sftdtmr",
+  "repo": "page-caff7cf393499d7a49a0f377",
+  "title": "TG号购买",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "caff7cf393499d7a49a0f377",
+      "a": "TG号购买",
+      "b": "",
+      "entity": "TG号购买",
+      "brand": "TG号购买",
+      "separator": "",
+      "path": "index.html",
+      "hash": "de9339d0fbd7831e71a47760e306bddf12dbd53868396726ff9926d80f3f5980",
+      "content": {
+        "keyword1": "TG号购买",
+        "keyword2": "",
+        "primary_entity": "TG号购买",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "TG号购买是专业的VPN网络加速品牌，提供机场订阅和客户端下载服务。多种套餐（基础版、旗舰版、团队版）供您选择，满足不同需求。官方下载入口。",
+          "AI_DESCRIPTION": "TG号购买是专业的VPN网络加速品牌，提供机场订阅和客户端下载服务。多种套餐（基础版、旗舰版、团队版）供您选择，满足不同需求。官方下载入口。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n\n<style>\n    body {\n        font-family: 'Microsoft YaHei', Arial, sans-serif;\n        background: linear-gradient(to bottom, #f5f5f5, #e8e8e8);\n        color: #333;\n        margin: 0;\n        padding: 0;\n        line-height: 1.6;\n    }\n    .container {\n        max-width: 1100px;\n        margin: 0 auto;\n        padding: 20px;\n    }\n    h1 {\n        font-size: 2.8rem;\n        text-align: center;\n        margin: 40px 0 20px;\n        color: #2c3e50;\n    }\n    h2 {\n        font-size: 1.8rem;\n        margin: 30px 0 15px;\n        color: #6b5b95;\n        border-bottom: 2px solid #d1d1d1;\n        padding-bottom: 10px;\n    }\n    .hero {\n        text-align: center;\n        margin: 40px 0;\n        background: #6b5b95;\n        color: white;\n        padding: 40px 20px;\n        border-radius: 10px;\n    }\n    .hero h2 {\n        font-size: 1.6rem;\n        margin: 0 0 15px;\n    }\n    .button {\n        display: inline-block;\n        background: #6b5b95;\n        color: white;\n        padding: 12px 25px;\n        border-radius: 30px;\n        text-decoration: none;\n        font-weight: bold;\n        transition: background 0.3s;\n    }\n    .button:hover {\n        background: #5a4a85;\n    }\n    .plans-grid {\n        display: grid;\n        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));\n        gap: 20px;\n    }\n    .plan-card {\n        border: 1px solid #d1d1d1;\n        border-radius: 10px;\n        padding: 20px;\n        background: white;\n        box-shadow: 0 4px 8px rgba(0,0,0,0.05);\n    }\n    .plan-card.featured {\n        border: 3px solid #6b5b95;\n        box-shadow: 0 8px 16px rgba(107,91,149,0.3);\n    }\n    .plan-card h3 {\n        font-size: 1.5rem;\n        color: #2c3e50;\n    }\n    .plan-card .price {\n        font-size: 1.3rem;\n        color: #6b5b95;\n        font-weight: bold;\n        margin: 10px 0;\n    }\n    ul {\n        list-style: none;\n        padding: 0;\n    }\n    ul li {\n        padding: 8px 0;\n        position: relative;\n        padding-left: 25px;\n    }\n    ul li:before {\n        content: \"✓\";\n        position: absolute;\n        left: 0;\n        color: #6b5b95;\n    }\n    details {\n        margin: 15px 0;\n        background: #f9f9f9;\n        padding: 15px;\n        border-radius: 8px;\n    }\n    summary {\n        font-weight: bold;\n        cursor: pointer;\n        font-size: 1.1rem;\n        color: #6b5b95;\n    }\n    summary::-webkit-details-marker {\n        display: none;\n    }\n    footer {\n        background: #2c3e50;\n        color: white;\n        text-align: center;\n        padding: 30px;\n        margin-top: 40px;\n    }\n    @media (max-width: 768px) {\n        h1 {\n            font-size: 2.2rem;\n        }\n        .container {\n            padding: 15px;\n        }\n        .plans-grid {\n            grid-template-columns: 1fr;\n        }\n    }\n</style>\n\n\n<div class=\"container\">\n    <header>\n        <h1>TG号购买</h1>\n        <nav>\n            <a href=\"#\">首页</a>\n            <a href=\"#\">套餐</a>\n            <a href=\"#\">下载</a>\n            <a href=\"#faq\">FAQ</a>\n        </nav>\n    </header>\n    <main>\n        <section class=\"hero\">\n            <h2>高端VPN加速器</h2>\n            <p>稳定高速 · 机场订阅 · 客户端下载</p>\n            <a href=\"#plans\" class=\"button\">立即查看套餐</a>\n        </section>\n        <section>\n            <h2>品牌简介</h2>\n            <p>TG号购买致力于提供优质的VPN网络加速服务，帮助用户突破网络限制，享受全球高速上网体验。无论是日常浏览、在线游戏还是流媒体观看，我们均可提供专业支持。官网正品保障，客户端下载便捷可靠。</p>\n        </section>\n        <section id=\"plans\">\n            <h2>选择适合您的套餐</h2>\n            <div class=\"plans-grid\">\n                <div class=\"plan-card\">\n                    <h3>基础版</h3>\n                    <p class=\"price\">¥15/月 | 按年付仅需 ¥150/年</p>\n                    <ul>\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                    <a href=\"#\" class=\"button\">立即订阅</a>\n                </div>\n                <div class=\"plan-card featured\">\n                    <h3>旗舰版</h3>\n                    <p class=\"price\">¥35/月 | 按年付仅需 ¥350/年</p>\n                    <ul>\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                    <a href=\"#\" class=\"button\">立即订阅</a>\n                </div>\n                <div class=\"plan-card\">\n                    <h3>团队版</h3>\n                    <p class=\"price\">¥85/月 | 按年付仅需 ¥850/年</p>\n                    <ul>\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                    <a href=\"#\" class=\"button\">立即订阅</a>\n                </div>\n            </div>\n        </section>\n        <section>\n            <h2>常见使用场景</h2>\n            <ul>\n                <li>家庭网络加速</li>\n                <li>流媒体解锁</li>\n                <li>游戏加速</li>\n                <li>企业网络定制</li>\n                <li>多人在线协作</li>\n            </ul>\n        </section>\n        <section>\n            <h2>使用操作指南</h2>\n            <ol>\n                <li>选择适合的套餐并完成在线支付</li>\n                <li>获取订阅链接或下载客户端</li>\n                <li>导入节点配置加速器</li>\n                <li>享受高速稳定网络服务</li>\n            </ol>\n        </section>\n        <section id=\"faq\">\n            <h2>常见问题解答</h2>\n            <details>\n                <summary>TG号购买是什么？</summary>\n                <p>TG号购买是专业的VPN网络加速品牌，提供机场订阅和客户端下载服务，保障用户的高速上网体验。</p>\n            </details>\n            <details>\n                <summary>如何购买套餐？</summary>\n                <p>在官网选择套餐后完成支付，即可获得订阅链接或客户端下载授权。</p>\n            </details>\n            <details>\n                <summary>流量如何计算？</summary>\n                <p>每月流量有明确限额，基础版100GB，旗舰版300GB，团队版1000GB，超出按普通线路处理。</p>\n            </details>\n            <details>\n                <summary>支持多少设备同时在线？</summary>\n                <p>基础版支持3台，旗舰版支持5台，团队版支持20台。</p>\n            </details>\n            <details>\n                <summary>如何下载客户端？</summary>\n                <p>购买后在官网下载页面或通过订阅链接获取，支持Windows、Mac、Android、iOS等设备。</p>\n            </details>\n            <details>\n                <summary>售后支持如何？</summary>\n                <p>旗舰版及以上提供7x24优先工单支持，团队版有专属客户经理服务。</p>\n            </details>\n        </section>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n    <footer>\n        <p>TG号购买 | 官网下载 | 机场订阅 | 客户端下载</p>\n        <p>© 2025 TG号购买 保留所有权利</p>\n    </footer>\n</div>\n\n",
+          "hash": "29810741349e9eb86648dd98ee61051464ffe78bb162a3d00b0b03947644334d",
+          "seo": {
+            "title": "TG号购买 - 专业VPN加速器 | 机场订阅 客户端下载",
+            "keywords": "TG号购买, VPN加速器, 机场订阅, 客户端下载, 官网",
+            "description": "TG号购买是专业的VPN网络加速品牌，提供机场订阅和客户端下载服务。多种套餐（基础版、旗舰版、团队版）供您选择，满足不同需求。官方下载入口。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qfknj.cn",
+    "host": "p-7a5804d744.qfknj.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "9739cdbb00f8dce70b19b9a2bf6998d36e9f256cf19acb58847271251cfd9839",
+    "sitemap.xml": "98a27aa39b695a9baef0e1f079f950e3c52983299d4c8db34c9788958bf5fb4a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "dabd4b9c43f20a786369fcd6e4d1c5d6c2b197f75c8cb009aec86baf95cf9bf4",
+    "robots.txt": "36fa5eaa840859da19a218a325634e9c279b16bfaac8e035ce5020529e5c5c97",
+    "e06ac76da0218b51cb86e3d7a758a9dc.txt": "8172f048c77d6fe9fbb2d59adca95e8ba68ca24ea01daeb869f522e4e9c66f1a"
+  },
+  "revision": "d5b0ef8b83c7a679fba1a53f6d2b66c7445aa7c6cc363886a45fdd68ef5bd193"
+}
